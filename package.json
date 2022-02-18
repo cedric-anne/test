@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "main": "test.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedric-anne/test.git"
+  },
+  "author": "me",
+  "license": "MIT"
+}
